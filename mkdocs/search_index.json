@@ -2,21 +2,96 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Welcome to the Kingdom Keys Re:Coded docs\n\n\nVisit the mod \nwebsite\n\n\nNotable pages\n\n\n\n\nKeyblades",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-mkdocs",
+            "location": "/#welcome-to-the-kingdom-keys-recoded-docs",
+            "text": "Visit the mod  website",
+            "title": "Welcome to the Kingdom Keys Re:Coded docs"
+        },
+        {
+            "location": "/#notable-pages",
+            "text": "Keyblades",
+            "title": "Notable pages"
+        },
+        {
+            "location": "/keyblades/about/",
+            "text": "Keyblades\n\n\nKeyblades are sword-like weapons that are in the shape of a key. There 120 different keyblades available in the mod, many of which have 3D models.\nThey are summoned by using their respective \nkeychain\n. They can open \nchests\n from the mod and iron doors.\nEvery keyblade is unbreakable with -1 durability. The stats can be changed of every keyblade in the config file.\n\n\nSummoning a keyblade\n\n\nTo summon a keyblade the respective keychain must be placed in the keychain inventory found in the menu (default 'M'). Then with an empty hand press the summon key (default 'G').\nThe keyblade then can be desummoned by pressing the key again.\n\n\nList of available keyblades\n\n\n\n\n\n\n\n\nKeyblade name\n\n\nBase Attack Damage\n\n\nHas 3D model?\n\n\n\n\n\n\n\n\n\n\nAbaddon Plasma\n\n\n7\n\n\nNo\n\n\n\n\n\n\nAbyssal Tide\n\n\n7\n\n\nNo\n\n\n\n\n\n\nAll For One\n\n\n5\n\n\nYes\n\n\n\n\n\n\nAnguis Foreteller's Keyblade\n\n\n9\n\n\nNo\n\n\n\n\n\n\nAstral Blast\n\n\n9\n\n\nNo\n\n\n\n\n\n\nAubade\n\n\n9\n\n\nNo\n\n\n\n\n\n\nBond of Flame\n\n\n14\n\n\nYes\n\n\n\n\n\n\nBrightcrest\n\n\n7\n\n\nYes\n\n\n\n\n\n\nChaos Ripper\n\n\n7\n\n\nYes\n\n\n\n\n\n\nCircle of Life\n\n\n9\n\n\nYes\n\n\n\n\n\n\nCounterpoint\n\n\n7\n\n\nYes\n\n\n\n\n\n\nCrabclaw\n\n\n5\n\n\nYes\n\n\n\n\n\n\nCrown of Guilt\n\n\n9\n\n\nNo\n\n\n\n\n\n\nDarker than Dark\n\n\n8\n\n\nNo\n\n\n\n\n\n\nDarkgnaw\n\n\n10\n\n\nYes\n\n\n\n\n\n\nDecisive Pumpkin\n\n\n21\n\n\nYes\n\n\n\n\n\n\nDestiny's Embrace\n\n\n7\n\n\nYes\n\n\n\n\n\n\nDiamond Dust\n\n\n10\n\n\nYes\n\n\n\n\n\n\nDivewing\n\n\n7\n\n\nYes\n\n\n\n\n\n\nDivine Rose\n\n\n6\n\n\nYes\n\n\n\n\n\n\nDream Sword\n\n\n5\n\n\nYes\n\n\n\n\n\n\nDual Disc\n\n\n7\n\n\nYes\n\n\n\n\n\n\nEarthshaker\n\n\n10\n\n\nYes\n\n\n\n\n\n\nEnd of Pain\n\n\n9\n\n\nYes\n\n\n\n\n\n\nEnds of the Earth\n\n\n9\n\n\nYes\n\n\n\n\n\n\nFairy Harp\n\n\n7\n\n\nYes\n\n\n\n\n\n\nFairy Stars\n\n\n6\n\n\nYes\n\n\n\n\n\n\nFatal Crest\n\n\n17\n\n\nYes\n\n\n\n\n\n\nFenrir\n\n\n24\n\n\nYes\n\n\n\n\n\n\nFerris Gear\n\n\n6\n\n\nYes\n\n\n\n\n\n\nFollow the Wind\n\n\n8\n\n\nYes\n\n\n\n\n\n\nFrolic Flame\n\n\n6\n\n\nYes\n\n\n\n\n\n\nGlimpse of Darkness\n\n\n6\n\n\nNo\n\n\n\n\n\n\nGuardian Bell\n\n\n7\n\n\nYes\n\n\n\n\n\n\nGuardian Soul\n\n\n8\n\n\nYes\n\n\n\n\n\n\nGull Wing\n\n\n5\n\n\nYes\n\n\n\n\n\n\nHero's Crest\n\n\n6\n\n\nYes\n\n\n\n\n\n\nHidden Dragon\n\n\n7\n\n\nYes\n\n\n\n\n\n\nHyperdrive\n\n\n8\n\n\nYes\n\n\n\n\n\n\nIncomplete \u03c7-blade\n\n\n13\n\n\nYes\n\n\n\n\n\n\nJungle King\n\n\n7\n\n\nYes\n\n\n\n\n\n\nKeyblade of People's Hearts\n\n\n13\n\n\nYes\n\n\n\n\n\n\n\u03c7-blade\n\n\n25\n\n\nYes\n\n\n\n\n\n\nKingdom Key\n\n\n5\n\n\nYes\n\n\n\n\n\n\nKingdom Key D\n\n\n5\n\n\nYes\n\n\n\n\n\n\nKnockout Punch\n\n\n5\n\n\nYes\n\n\n\n\n\n\nLady Luck\n\n\n6\n\n\nYes\n\n\n\n\n\n\nLea's Keyblade\n\n\n8\n\n\nYes\n\n\n\n\n\n\nLeopardos Foreteller's Keyblade\n\n\n17\n\n\nNo\n\n\n\n\n\n\nLeviathan\n\n\n9\n\n\nNo\n\n\n\n\n\n\nLionheart\n\n\n7\n\n\nYes\n\n\n\n\n\n\nLost Memory\n\n\n12\n\n\nYes\n\n\n\n\n\n\nLunar Eclipse\n\n\n6\n\n\nNo\n\n\n\n\n\n\nMark of a Hero\n\n\n7\n\n\nYes\n\n\n\n\n\n\nMaster's Defender\n\n\n13\n\n\nYes\n\n\n\n\n\n\nMaster Xehanort's Keyblade\n\n\n18\n\n\nYes\n\n\n\n\n\n\nMaverick Flare\n\n\n9\n\n\nNo\n\n\n\n\n\n\nMetal Chocobo\n\n\n7\n\n\nYes\n\n\n\n\n\n\nMidnight Roar\n\n\n11\n\n\nNo\n\n\n\n\n\n\nMirage Split\n\n\n16\n\n\nYes\n\n\n\n\n\n\nMissing Ache\n\n\n8\n\n\nNo\n\n\n\n\n\n\nMonochrome\n\n\n6\n\n\nYes\n\n\n\n\n\n\nMysterious Abyss\n\n\n6\n\n\nNo\n\n\n\n\n\n\nNightmare's End\n\n\n16\n\n\nYes\n\n\n\n\n\n\nCombined Keyblade\n\n\n23\n\n\nYes\n\n\n\n\n\n\nNo Name\n\n\n12\n\n\nYes\n\n\n\n\n\n\nOathkeeper\n\n\n11\n\n\nYes\n\n\n\n\n\n\nOblivion\n\n\n13\n\n\nYes\n\n\n\n\n\n\nOcean's Rage\n\n\n8\n\n\nYes\n\n\n\n\n\n\nOlympia\n\n\n9\n\n\nYes\n\n\n\n\n\n\nOmega Weapon\n\n\n13\n\n\nNo\n\n\n\n\n\n\nOminous Blight\n\n\n10\n\n\nNo\n\n\n\n\n\n\nOne Winged Angel\n\n\n15\n\n\nYes\n\n\n\n\n\n\nPain of Solitude\n\n\n5\n\n\nNo\n\n\n\n\n\n\nPhoton Debugger\n\n\n6\n\n\nYes\n\n\n\n\n\n\nPixie Petal\n\n\n6\n\n\nYes\n\n\n\n\n\n\nPumpkinhead\n\n\n10\n\n\nYes\n\n\n\n\n\n\nRainfell\n\n\n6\n\n\nYes\n\n\n\n\n\n\nRejection of Fate\n\n\n8\n\n\nNo\n\n\n\n\n\n\nRoyal Radiance\n\n\n10\n\n\nYes\n\n\n\n\n\n\nRumbling Rose\n\n\n11\n\n\nYes\n\n\n\n\n\n\nSign of Innocence\n\n\n6\n\n\nNo\n\n\n\n\n\n\nSilent Dirge\n\n\n7\n\n\nNo\n\n\n\n\n\n\nSkull Noise\n\n\n6\n\n\nYes\n\n\n\n\n\n\nSleeping Lion\n\n\n13\n\n\nYes\n\n\n\n\n\n\nSoul Eater\n\n\n12\n\n\nYes\n\n\n\n\n\n\nSpellbinder\n\n\n6\n\n\nYes\n\n\n\n\n\n\nStarlight\n\n\n6\n\n\nNo\n\n\n\n\n\n\nStar Seeker\n\n\n12\n\n\nYes\n\n\n\n\n\n\nStormfall\n\n\n8\n\n\nYes\n\n\n\n\n\n\nStroke of Midnight\n\n\n6\n\n\nNo\n\n\n\n\n\n\nSweet Dreams\n\n\n9\n\n\nYes\n\n\n\n\n\n\nSweet Memories\n\n\n7\n\n\nYes\n\n\n\n\n\n\nSweetstack\n\n\n8\n\n\nYes\n\n\n\n\n\n\nThree Wishes\n\n\n8\n\n\nYes\n\n\n\n\n\n\nTotal Eclipse\n\n\n9\n\n\nNo\n\n\n\n\n\n\nTreasure Trove\n\n\n7\n\n\nYes\n\n\n\n\n\n\nTrue Light's Flight\n\n\n8\n\n\nNo\n\n\n\n\n\n\nTwilight Blaze\n\n\n11\n\n\nNo\n\n\n\n\n\n\nTwo Become One\n\n\n20\n\n\nYes\n\n\n\n\n\n\nUltima Weapon (KH1)\n\n\n18\n\n\nYes\n\n\n\n\n\n\nUltima Weapon (KH2)\n\n\n18\n\n\nYes\n\n\n\n\n\n\nUltima Weapon (BBS)\n\n\n18\n\n\nYes\n\n\n\n\n\n\nUltima Weapon (DDD)\n\n\n18\n\n\nYes\n\n\n\n\n\n\nUmbrella\n\n\n4\n\n\nNo\n\n\n\n\n\n\nUnbound\n\n\n13\n\n\nYes\n\n\n\n\n\n\nUnicornis Foreteller's Keyblade\n\n\n15\n\n\nNo\n\n\n\n\n\n\nUrsus Forteller's Keyblade\n\n\n18\n\n\nNo\n\n\n\n\n\n\nVictory Line\n\n\n7\n\n\nYes\n\n\n\n\n\n\nVoid Gear\n\n\n11\n\n\nYes\n\n\n\n\n\n\nVulpeus Forteller's Keyblade\n\n\n16\n\n\nNo\n\n\n\n\n\n\nWay to the Dawn\n\n\n9\n\n\nYes\n\n\n\n\n\n\nWayward Wind\n\n\n8\n\n\nYes\n\n\n\n\n\n\nWinner's Proof\n\n\n12\n\n\nYes\n\n\n\n\n\n\nWishing Lamp\n\n\n7\n\n\nYes\n\n\n\n\n\n\nWishing Star\n\n\n9\n\n\nYes\n\n\n\n\n\n\nWooden Keyblade\n\n\n2\n\n\nYes\n\n\n\n\n\n\nWooden Stick\n\n\n-4\n\n\nYes\n\n\n\n\n\n\nYoung Xehanort's Keyblade\n\n\n15\n\n\nYes\n\n\n\n\n\n\nZero/One\n\n\n12\n\n\nNo",
+            "title": "About"
+        },
+        {
+            "location": "/keyblades/about/#keyblades",
+            "text": "Keyblades are sword-like weapons that are in the shape of a key. There 120 different keyblades available in the mod, many of which have 3D models.\nThey are summoned by using their respective  keychain . They can open  chests  from the mod and iron doors.\nEvery keyblade is unbreakable with -1 durability. The stats can be changed of every keyblade in the config file.",
+            "title": "Keyblades"
+        },
+        {
+            "location": "/keyblades/about/#summoning-a-keyblade",
+            "text": "To summon a keyblade the respective keychain must be placed in the keychain inventory found in the menu (default 'M'). Then with an empty hand press the summon key (default 'G').\nThe keyblade then can be desummoned by pressing the key again.",
+            "title": "Summoning a keyblade"
+        },
+        {
+            "location": "/keyblades/about/#list-of-available-keyblades",
+            "text": "Keyblade name  Base Attack Damage  Has 3D model?      Abaddon Plasma  7  No    Abyssal Tide  7  No    All For One  5  Yes    Anguis Foreteller's Keyblade  9  No    Astral Blast  9  No    Aubade  9  No    Bond of Flame  14  Yes    Brightcrest  7  Yes    Chaos Ripper  7  Yes    Circle of Life  9  Yes    Counterpoint  7  Yes    Crabclaw  5  Yes    Crown of Guilt  9  No    Darker than Dark  8  No    Darkgnaw  10  Yes    Decisive Pumpkin  21  Yes    Destiny's Embrace  7  Yes    Diamond Dust  10  Yes    Divewing  7  Yes    Divine Rose  6  Yes    Dream Sword  5  Yes    Dual Disc  7  Yes    Earthshaker  10  Yes    End of Pain  9  Yes    Ends of the Earth  9  Yes    Fairy Harp  7  Yes    Fairy Stars  6  Yes    Fatal Crest  17  Yes    Fenrir  24  Yes    Ferris Gear  6  Yes    Follow the Wind  8  Yes    Frolic Flame  6  Yes    Glimpse of Darkness  6  No    Guardian Bell  7  Yes    Guardian Soul  8  Yes    Gull Wing  5  Yes    Hero's Crest  6  Yes    Hidden Dragon  7  Yes    Hyperdrive  8  Yes    Incomplete \u03c7-blade  13  Yes    Jungle King  7  Yes    Keyblade of People's Hearts  13  Yes    \u03c7-blade  25  Yes    Kingdom Key  5  Yes    Kingdom Key D  5  Yes    Knockout Punch  5  Yes    Lady Luck  6  Yes    Lea's Keyblade  8  Yes    Leopardos Foreteller's Keyblade  17  No    Leviathan  9  No    Lionheart  7  Yes    Lost Memory  12  Yes    Lunar Eclipse  6  No    Mark of a Hero  7  Yes    Master's Defender  13  Yes    Master Xehanort's Keyblade  18  Yes    Maverick Flare  9  No    Metal Chocobo  7  Yes    Midnight Roar  11  No    Mirage Split  16  Yes    Missing Ache  8  No    Monochrome  6  Yes    Mysterious Abyss  6  No    Nightmare's End  16  Yes    Combined Keyblade  23  Yes    No Name  12  Yes    Oathkeeper  11  Yes    Oblivion  13  Yes    Ocean's Rage  8  Yes    Olympia  9  Yes    Omega Weapon  13  No    Ominous Blight  10  No    One Winged Angel  15  Yes    Pain of Solitude  5  No    Photon Debugger  6  Yes    Pixie Petal  6  Yes    Pumpkinhead  10  Yes    Rainfell  6  Yes    Rejection of Fate  8  No    Royal Radiance  10  Yes    Rumbling Rose  11  Yes    Sign of Innocence  6  No    Silent Dirge  7  No    Skull Noise  6  Yes    Sleeping Lion  13  Yes    Soul Eater  12  Yes    Spellbinder  6  Yes    Starlight  6  No    Star Seeker  12  Yes    Stormfall  8  Yes    Stroke of Midnight  6  No    Sweet Dreams  9  Yes    Sweet Memories  7  Yes    Sweetstack  8  Yes    Three Wishes  8  Yes    Total Eclipse  9  No    Treasure Trove  7  Yes    True Light's Flight  8  No    Twilight Blaze  11  No    Two Become One  20  Yes    Ultima Weapon (KH1)  18  Yes    Ultima Weapon (KH2)  18  Yes    Ultima Weapon (BBS)  18  Yes    Ultima Weapon (DDD)  18  Yes    Umbrella  4  No    Unbound  13  Yes    Unicornis Foreteller's Keyblade  15  No    Ursus Forteller's Keyblade  18  No    Victory Line  7  Yes    Void Gear  11  Yes    Vulpeus Forteller's Keyblade  16  No    Way to the Dawn  9  Yes    Wayward Wind  8  Yes    Winner's Proof  12  Yes    Wishing Lamp  7  Yes    Wishing Star  9  Yes    Wooden Keyblade  2  Yes    Wooden Stick  -4  Yes    Young Xehanort's Keyblade  15  Yes    Zero/One  12  No",
+            "title": "List of available keyblades"
+        },
+        {
+            "location": "/keyblades/kingdomkey/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Kingdom Key"
+        },
+        {
+            "location": "/keyblades/kingdomkey/#welcome-to-mkdocs",
             "text": "For full documentation visit  mkdocs.org .",
             "title": "Welcome to MkDocs"
         },
         {
-            "location": "/#commands",
+            "location": "/keyblades/kingdomkey/#commands",
             "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
             "title": "Commands"
         },
         {
-            "location": "/#project-layout",
+            "location": "/keyblades/kingdomkey/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/keychains/about/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "About"
+        },
+        {
+            "location": "/keychains/about/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/keychains/about/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/keychains/about/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/keychains/kingdomkeychain/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Kingdom Key Chain"
+        },
+        {
+            "location": "/keychains/kingdomkeychain/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/keychains/kingdomkeychain/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/keychains/kingdomkeychain/#project-layout",
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
             "title": "Project layout"
         }
