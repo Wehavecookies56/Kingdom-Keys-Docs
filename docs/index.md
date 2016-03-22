@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Welcome to the Kingdom Keys Re:Coded docs
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Visit the mod [website](http://wehavecookies56.co.uk/Kingdom-Keys-Re-Coded)
 
-## Commands
+# Notable pages
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [Keyblades](keyblades/about.md)

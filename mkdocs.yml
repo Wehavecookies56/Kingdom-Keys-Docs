@@ -1,2 +1,10 @@
 site_name: Kingdom Keys Re:Coded Docs
+pages:
+- Home: 'index.md'
+- Keyblades:
+    - 'About': 'keyblades/about.md'
+    - 'Kingdom Key': 'keyblades/kingdomkey.md'
+- Keychains:
+    - 'About': 'keychains/about.md'
+    - 'Kingdom Key Chain': 'keychains/kingdomkeychain.md'
 theme: readthedocs
