@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-03-22</lastmod>
+     <lastmod>2016-07-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,14 +12,118 @@
     
         
     <url>
-     <loc>None/keyblades/about/</loc>
-     <lastmod>2016-03-22</lastmod>
+     <loc>None/blocks/blastblox/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/bounceblox/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/chest/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/dangerblox/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/ghostblox/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/hardblox/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/magnetblox/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/metalblox/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/normalblox/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/prizeblox/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/rareprizeblox/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/synthesisores/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/blocks/synthesistable/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/items/recipe/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/items/synthesismaterials/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/items/synthesisbags/</loc>
+     <lastmod>2016-07-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/keyblades/keyblades/</loc>
+     <lastmod>2016-07-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/keyblades/kingdomkey/</loc>
-     <lastmod>2016-03-22</lastmod>
+     <lastmod>2016-07-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -29,13 +133,13 @@
         
     <url>
      <loc>None/keychains/about/</loc>
-     <lastmod>2016-03-22</lastmod>
+     <lastmod>2016-07-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/keychains/kingdomkeychain/</loc>
-     <lastmod>2016-03-22</lastmod>
+     <lastmod>2016-07-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
         

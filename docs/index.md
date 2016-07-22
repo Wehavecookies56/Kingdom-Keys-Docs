@@ -4,4 +4,4 @@ Visit the mod [website](http://wehavecookies56.co.uk/Kingdom-Keys-Re-Coded)
 
 # Notable pages
 
-* [Keyblades](keyblades/about.md)
+* [Keyblades](keyblades/keyblades.md)
