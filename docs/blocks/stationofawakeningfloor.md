@@ -2,6 +2,6 @@
 layout: page
 tags: ../index
 ---
-# Synthesis Bags
+# Station of Awakening Floor
 
 Page under construction

@@ -2,6 +2,6 @@
 layout: page
 tags: ../index
 ---
-# Synthesis Bags
+# Organization XIII Portal Destination
 
 Page under construction

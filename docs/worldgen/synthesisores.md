@@ -2,6 +2,6 @@
 layout: page
 tags: ../index
 ---
-# Synthesis Bags
+# Synthesis Ore Veins
 
 Page under construction

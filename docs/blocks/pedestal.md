@@ -2,6 +2,6 @@
 layout: page
 tags: ../index
 ---
-# Synthesis Bags
+# Pedestal
 
 Page under construction

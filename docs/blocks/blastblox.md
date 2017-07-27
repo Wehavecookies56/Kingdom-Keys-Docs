@@ -4,7 +4,7 @@ tags: ../index
 ---
 # Blast Blox
 
-The Blast Blox is a Bug Blox which acts similarly to TNT, however it is far more dangerous where any contact with the block will cause it to explode. The only way to break it without it exploding is by destroying it with a feather.
+The Blast Blox are Bug Blox that act similarly to [TNT](http://minecraft.gamepedia.com/TNT), however the are far more dangerous where any contact with the block causes it to explode. They can safely be destroyed using a [Feather](http://minecraft.gamepedia.com/Feather) which does not cause the Blast Blox to explode.
 
 # Crafting
 
