@@ -1,3 +1,7 @@
+---
+layout: page
+tags: ../index
+---
 # Synthesis Materials
 
 Synthesis materials are used for creating items through [synthesis](../blocks/synthesistable.md). They can be found from breaking [Prize Blox](../blocks/prizeblox.md), [Rare Prize Blox](../blocks/rareprizeblox.md) and [Synthesis Ores](../blocks/synthesisores.md).

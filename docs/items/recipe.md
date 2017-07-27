@@ -1,3 +1,7 @@
+---
+layout: page
+tags: ../index
+---
 # Recipe
 
 Recipes are items that can be found in the chests found in any randomly generated structure such as dungeons and mineshafts. On the tooltip for the recipe it will have 3 random [Keyblades](../keyblades/keyblades.md) these are the recipes that you will learn from it. Mobs also have a 1 in 100 chance of dropping a recipe.
