@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: ../index.md
+tags: ../index.md
 ---
 # Blast Blox
 
