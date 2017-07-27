@@ -23,12 +23,12 @@ Enchanting the keychain will also give the keyblade the same enchantments.
 
 Keyblade name | Strength | Magic | Has 3D model?
 :- | :-: | :-: | -:
-Abaddon Plasma|+6|+0|No
-Abyssal Tide|+4|+0|No
+Abaddon Plasma|+6|+0|Yes
+Abyssal Tide|+4|+0|Yes
 All For One|+6|+6|Yes
 Anguis Foreteller's Keyblade|+10|+8|No
-Astral Blast|+6|+0|No
-Aubade|+6|+0|No
+Astral Blast|+6|+0|Yes
+Aubade|+6|+0|Yes
 Bond of Flame|+8|+8|Yes
 Brightcrest|+4|+7|Yes
 Chaos Ripper|+10|-2|Yes
@@ -36,7 +36,7 @@ Circle of Life|+8|+2|Yes
 Counterpoint|+8|+7|Yes
 Crabclaw|+6|+1|Yes
 Crown of Guilt|+5|+8|No
-Darker than Dark|+6|+9|No
+Darker than Dark|+6|+9|Yes
 Darkgnaw|+5|+2|Yes
 Decisive Pumpkin|+12|+2|Yes
 Destiny's Embrace|+3|+3|Yes
@@ -75,17 +75,17 @@ Leopardos Foreteller's Keyblade|+10|+8|No
 Leviathan|+4|+0|No
 Lionheart|+8|+1|Yes
 Lost Memory|+6|+5|Yes
-Lunar Eclipse|+7|+8|No
+Lunar Eclipse|+7|+8|Yes
 Mark of a Hero|+5|+1|Yes
 Master's Defender|+7|+7|Yes
 Master Xehanort's Keyblade|+13|+6|Yes
-Maverick Flare|+6|+0|No
+Maverick Flare|+6|+0|Yes
 Metal Chocobo|+9|-1|Yes
 Midnight Roar|+6|+0|No
 Mirage Split|+8|+5|Yes
-Missing Ache|+3|+0|No
+Missing Ache|+3|+0|Yes
 Monochrome|+6|+4|Yes
-Mysterious Abyss|+6|+6|No
+Mysterious Abyss|+6|+6|Yes
 Nightmare's End|+9|+3|Yes
 Combined Keyblade|+20|+9|Yes
 No Name|+6|+7|Yes
@@ -94,17 +94,17 @@ Oblivion|+6|+2|Yes
 Ocean's Rage|+6|+5|Yes
 Olympia|+8|+0|Yes
 Omega Weapon|+7|+3|No
-Ominous Blight|+4|+0|No
+Ominous Blight|+4|+0|Yes
 One Winged Angel|+6|-2|Yes
-Pain of Solitude|+3|+1|No
+Pain of Solitude|+3|+1|Yes
 Photon Debugger|+6|+4|Yes
 Pixie Petal|+3|+6|Yes
 Pumpkinhead|+7|+0|Yes
 Rainfell|+2|+2|Yes
-Rejection of Fate|+4|+0|No
+Rejection of Fate|+4|+0|Yes
 Royal Radiance|+8|+7|Yes
 Rumbling Rose|+10|+0|Yes
-Sign of Innocence|+5|+1|No
+Sign of Innocence|+5|+1|Yes
 Silent Dirge|+5|+2|No
 Skull Noise|+4|+4|Yes
 Sleeping Lion|+10|+6|Yes
@@ -113,15 +113,15 @@ Spellbinder|+4|+2|Yes
 Starlight|+3|+2|No
 Star Seeker|+6|+3|Yes
 Stormfall|+5|+4|Yes
-Stroke of Midnight|+2|+2|No
+Stroke of Midnight|+2|+2|Yes
 Sweet Dreams|+9|+6|Yes
 Sweet Memories|+0|+8|Yes
 Sweetstack|+6|+4|Yes
 Three Wishes|+6|+0|Yes
-Total Eclipse|+5|+0|No
+Total Eclipse|+5|+0|Yes
 Treasure Trove|+3|+2|Yes
-True Light's Flight|+5|+0|No
-Twilight Blaze|+6|+0|No
+True Light's Flight|+5|+0|Yes
+Twilight Blaze|+6|+0|Yes
 Two Become One|+6|+3|Yes
 Ultima Weapon (KH1)|+12|+2|Yes
 Ultima Weapon (KH2)|+12|+8|Yes
