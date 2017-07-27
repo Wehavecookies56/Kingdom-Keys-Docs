@@ -3,7 +3,11 @@ layout: default
 ---
 <article class="page">
   <div class="entry">
+    {% if page.tags != null %}
     <small><a href="{{ page.tags }}">&larr; back</a></small>
+    {% else %}
+    <small><a href="http://wehavecookies56.co.uk/Kingdom-Keys-Docs/index">&larr; back</a></small>
+    {% endif %}
     {{ content }}
   </div>
 </article>
