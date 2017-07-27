@@ -50,6 +50,7 @@ Discuss the mod on our [Discord Server](https://discord.gg/0zi76zYpsj7DM9zp)
 * [Recipe](items/recipe.md)
 * [Synthesis Bags](items/synthesisbags.md)
 * [Synthesis Materials](items/synthesismaterials.md)
+
 ### World Generation
 * [Bug Blox](worldgen/bugblox.md)
 * [Synthesis Ores](worldgen/synthesisores.md)
