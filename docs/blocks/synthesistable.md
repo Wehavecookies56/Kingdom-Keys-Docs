@@ -10,13 +10,22 @@ The synthesis table is an essential block in Kingdom Keys, used to create almost
 
 They can be crafted like so:
 
-![Crafting](../images/crafting/synthesis_table.png)
-
-| |Crafting |
-:- | :-: | -:
-[Hard Blox](hardblox.md)|[Iron Ingot](http://minecraft.gamepedia.com/Iron_Ingot)|[Hard Blox](hardblox.md)
-[Normal Blox](normalblox.md)|[Crafting Table](http://minecraft.gamepedia.com/Crafting_Table)|[Normal Blox](normalblox.md)
-[Hard Blox](hardblox.md)|[Iron Ingot](http://minecraft.gamepedia.com/Iron_Ingot)|[Hard Blox](hardblox.md)
+<img src="../images/crafting/synthesis_table.png" usemap="#items">
+<map name="items">
+    <area shape="rect" coords="14,14,46,46" href="hardblox">
+    <area shape="rect" coords="50,14,82,46" href="http://minecraft.gamepedia.com/Iron_Ingot">
+    <area shape="rect" coords="86,14,118,46" href="hardblox">
+    
+    <area shape="rect" coords="14,50,46,82" href="normalblox">
+    <area shape="rect" coords="50,50,82,82" href="http://minecraft.gamepedia.com/Crafting_Table">
+    <area shape="rect" coords="86,50,118,82" href="normalblox">
+    
+    <area shape="rect" coords="14,86,46,118" href="hardblox">
+    <area shape="rect" coords="50,86,82,118" href="http://minecraft.gamepedia.com/Iron_Ingot">
+    <area shape="rect" coords="86,86,118,118" href="hardblox">
+    
+    <area shape="rect" coords="194,42,242,90" href="synthesistable">
+</map>
 
 ## Interface
 

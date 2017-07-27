@@ -24,9 +24,3 @@ The Blast Blox is a Bug Blox which acts similarly to TNT, however it is far more
     
     <area shape="rect" coords="194,42,242,90" href="blastblox">
 </map>
-
-| |Crafting |
-:- | :-: | -:
-[Normal Blox](normalblox.md)|[Lava Bucket](http://minecraft.gamepedia.com/Lava)|[Normal Blox](normalblox.md)
-[Normal Blox](normalblox.md)|[TNT](http://minecraft.gamepedia.com/TNT)|[Normal Blox](normalblox.md)
-[Normal Blox](normalblox.md)|[Normal Blox](normalblox.md)|[Normal Blox](normalblox.md)
