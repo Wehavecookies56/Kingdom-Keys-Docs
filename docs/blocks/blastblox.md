@@ -10,7 +10,9 @@ The Blast Blox is a Bug Blox which acts similarly to TNT, however it is far more
 
 <img src="../images/crafting/blast_blox.png" usemap="#items">
 <map name="items">
-    <area shape="rect" coords="6,24,38,56" href="normalblox">
+    <area shape="rect" coords="14,14,46,46" href="normalblox">
+    <area shape="rect" coords="50,14,82,46" href="http://minecraft.gamepedia.com/Lava">
+    <area shape="rect" coords="86,14,118,46" href="normalblox">
 </map>
 
 | |Crafting |
