@@ -1,5 +1,6 @@
 ---
 layout: page
+parent: ../blocks/blocks.md
 ---
 # Blast Blox
 
