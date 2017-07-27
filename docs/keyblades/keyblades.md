@@ -1,3 +1,7 @@
+---
+layout: page
+tags: ../index
+---
 # Keyblades
 
 Keyblades are sword-like weapons that are in the shape of a key. There 120 different keyblades available in the mod, many of which have 3D models.

@@ -1,3 +1,7 @@
+---
+layout: page
+tags: ../index
+---
 # Synthesis Table
 
 The synthesis table is an essential block in Kingdom Keys, used to create almost every keyblade in the mod. They require recipes and the materials required by the recipe to synthesize.

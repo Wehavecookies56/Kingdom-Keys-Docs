@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: ../index.html
+tags: ../index
 ---
 # Blast Blox
 
